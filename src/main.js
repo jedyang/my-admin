@@ -11,6 +11,8 @@ import locale from 'element-ui/lib/locale/lang/en' // lang i18n
 
 import '@/styles/index.scss' // global css
 
+import '@/icons' // icon
+
 Vue.use(ElementUI, { locale })
 
 Vue.config.productionTip = false
